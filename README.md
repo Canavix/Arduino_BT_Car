@@ -13,7 +13,7 @@ Proyecto para controlar un Arduino de forma inalámbrica a través de una aplica
 ---
 
 ## Guía de conexión
-Este es el diagrama de conexión para el proyecto:
+Este es el diagrama de conexiones para el proyecto:
 
 ![Diagrama de conexión del carrito de Arduino](Circuito.png)
 
