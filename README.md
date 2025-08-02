@@ -91,7 +91,7 @@ Una vez que hayas instalado la aplicación, sigue estos pasos para conectarte a 
     * Antes de cerrar la aplicación, es recomendable presionar el botón **"Desconectar"**.
     * Confirma la desconexión observando que el estado cambie de nuevo a **"Desconectado"** (en rojo).
 
-¡Listo! Con estos sencillos pasos, tus estudiantes podrán utilizar la aplicación para controlar el robot sin problemas.
+¡Listo! Con estos sencillos pasos, podrán utilizar la aplicación para controlar el robot sin problemas.
 
 ---
 
