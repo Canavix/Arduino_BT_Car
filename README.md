@@ -40,7 +40,7 @@ Sigue los pasos a continuación para un montaje correcto:
     * Conecta el pin **IN3** del L298N al pin **4** del Arduino.
     * Conecta el pin **IN4** del L298N al pin **5** del Arduino.
     * Conecta el pin **ENB** del L298N al pin **11** del Arduino.
-* **Pines de alimentación:** Conecta el pin **5V** del driver L298N a un pin **5V** del Arduino y el pin **GND** del L298N a un pin **GND** del Arduino.
+* **Pines de alimentación:** Conecta el pin **12V** del driver L298N al pin **Vin** del Arduino y el pin **GND** del L298N a un pin **GND** del Arduino.
 
 ---
 
