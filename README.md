@@ -2,12 +2,13 @@
 Proyecto para controlar un Arduino de forma inalámbrica a través de una aplicación de Android con bluetooth.
 
 ## Componentes necesarios
-* Lista los componentes de hardware (Arduino, cables, etc.).
 * Arduino UNO
 * Módulo Bluetooth HC05 o HC06
 * Motorreductores
 * Driver L298N (Puente H)
 * Batería de 6-12V
+* Cables
+* Dispositivo móvil con Android
 
 ---
 
