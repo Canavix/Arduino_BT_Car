@@ -63,7 +63,7 @@ Sigue los pasos a continuación para un montaje correcto:
 
 Para instalar la aplicación y controlar el proyecto desde tu celular:
 
-1.  **Descarga la APK:** Descarga el archivo de la aplicación (por ejemplo, `control_bluetooth.apk`) que se encuentra en este repositorio.
+1.  **Descarga la APK:** Descarga el archivo de la aplicación `CarroBT.apk` que se encuentra en este repositorio. O puedes descargarlo de **aquí**: [CarroBT.apk](CarroBT.apk)
 2.  **Habilita fuentes desconocidas:** Ve a la **Configuración** de tu teléfono, busca la opción de **Seguridad y privacidad** y habilita la instalación de aplicaciones de **"Fuentes desconocidas"** o **"Instalar apps de fuentes externas"**. Este paso es necesario para instalar aplicaciones que no provienen de Google Play Store.
 3.  **Instala la APK:** Busca el archivo APK que descargaste en la carpeta de descargas de tu teléfono y tócalo para iniciar la instalación.
 4.  **Abre la aplicación:** Una vez instalada, busca el ícono de la aplicación en la pantalla de inicio y ábrela para empezar a usarla.* 
