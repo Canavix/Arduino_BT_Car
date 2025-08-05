@@ -100,3 +100,7 @@ Una vez que hayas instalado la aplicación, sigue estos pasos para conectarte a 
 Cristian Camilo Cañaveral Avilés  
 Ing. Mecatrónico  
 Email: camilo.canaveral@itspereira.edu.co
+
+Carlos Andrés Rodriguez Pérez
+Ing. Mecatrónico
+Email: carlos.rodriguez@itspereira.edu.co
