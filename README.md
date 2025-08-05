@@ -101,6 +101,6 @@ Cristian Camilo Cañaveral Avilés
 Ing. Mecatrónico  
 Email: camilo.canaveral@itspereira.edu.co
 
-Carlos Andrés Rodriguez Pérez
-Ing. Mecatrónico
+Carlos Andrés Rodriguez Pérez  
+Ing. Mecatrónico  
 Email: carlos.rodriguez@itspereira.edu.co
